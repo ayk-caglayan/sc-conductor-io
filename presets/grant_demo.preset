@@ -1,0 +1,5 @@
+('fxChains': [], 'audioInputBus': 0, 'synthdefs': ["sine_feature_analyzer.scd", "peak_sonifier.scd"], 'inputs': [
+  ('id': 'spec', 'type': 'sineFeature', 'startBar': 2, 'startBeat': 1, 'durationBeats': 3, 'numPeaks': 10, 'threshold': -96.0)
+], 'outputs': [
+  ('id': 'peaks', 'type': 'peakSonify', 'source': 'spec', 'bar': 5, 'beat': 1, 'duration': 2.0, 'ampScale': 0.3, 'numVoices': 10)
+], 'preloadBuffers': [])

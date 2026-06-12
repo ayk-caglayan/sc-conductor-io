@@ -1,0 +1,39 @@
+# --- Secrets (never commit) ---
+github-key*
+*.pem
+*.key
+.env
+.env.*
+
+# --- macOS / editor ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# --- SuperCollider runtime / recordings ---
+*.scx
+*.scw
+recordings/
+buffers/
+/temp/
+/scratch/
+
+# --- Audio assets (local / large) ---
+*.wav
+*.aiff
+*.flac
+*.mp3
+samples/*
+!samples/README.md
+
+# --- Personal presets (machine-specific paths) ---
+presets/*.preset
+!presets/grant_demo.preset
+!presets/example.preset
+
+# --- Nested / local dev ---
+*.preset.bak
+*.log

@@ -1,0 +1,171 @@
+{
+  "bpm": 60,
+  "numBeats": 8,
+  "subdivisions": 2,
+  "timeSignature": "8/4",
+  "cycleDuration": 8,
+  "notes": [
+    {
+      "startTime": 0,
+      "duration": 0,
+      "pitch": 60,
+      "frequency": 261.626,
+      "amplitude": 0.8,
+      "strokeClass": "A",
+      "beatIndex": 0
+    },
+    {
+      "startTime": 1.5,
+      "duration": 0.5,
+      "pitch": 60,
+      "frequency": 261.626,
+      "amplitude": 0.8,
+      "strokeClass": "A",
+      "beatIndex": 1
+    },
+    {
+      "startTime": 2,
+      "duration": 0.444444,
+      "pitch": 60,
+      "frequency": 263.023,
+      "amplitude": 0.4086,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 2.444444,
+      "duration": 0.351058,
+      "pitch": 64,
+      "frequency": 339.05,
+      "amplitude": 0.6874,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 2.795502,
+      "duration": 0.305473,
+      "pitch": 63,
+      "frequency": 309.481,
+      "amplitude": 0.25,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 3.100975,
+      "duration": 0.279206,
+      "pitch": 59,
+      "frequency": 241.351,
+      "amplitude": 0.1126,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 3.380181,
+      "duration": 0.263386,
+      "pitch": 55,
+      "frequency": 191.683,
+      "amplitude": 0.4767,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 3.643567,
+      "duration": 0.254332,
+      "pitch": 54,
+      "frequency": 185.779,
+      "amplitude": 0.7425,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 3.897899,
+      "duration": 0.250352,
+      "pitch": 58,
+      "frequency": 231.948,
+      "amplitude": 0.5595,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 4.148251,
+      "duration": 0.250743,
+      "pitch": 62,
+      "frequency": 297.537,
+      "amplitude": 0.2314,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 4.398994,
+      "duration": 0.255442,
+      "pitch": 64,
+      "frequency": 338.58,
+      "amplitude": 0.1279,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 4.654436,
+      "duration": 0.264979,
+      "pitch": 64,
+      "frequency": 335.779,
+      "amplitude": 0.4173,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 4.919415,
+      "duration": 0.280645,
+      "pitch": 61,
+      "frequency": 276.669,
+      "amplitude": 0.7048,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 5.20006,
+      "duration": 0.305012,
+      "pitch": 57,
+      "frequency": 217.063,
+      "amplitude": 0.6187,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 5.505072,
+      "duration": 0.343259,
+      "pitch": 54,
+      "frequency": 180.358,
+      "amplitude": 0.1768,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 5.848331,
+      "duration": 0.151669,
+      "pitch": 58,
+      "frequency": 227.366,
+      "amplitude": 0.2009,
+      "strokeClass": "B",
+      "beatIndex": 2
+    },
+    {
+      "startTime": 6,
+      "duration": 0,
+      "pitch": 60,
+      "frequency": 261.626,
+      "amplitude": 0.8,
+      "strokeClass": "A",
+      "beatIndex": 6
+    },
+    {
+      "startTime": 7,
+      "duration": 0,
+      "pitch": 60,
+      "frequency": 261.626,
+      "amplitude": 0.8,
+      "strokeClass": "A",
+      "beatIndex": 7
+    }
+  ]
+}

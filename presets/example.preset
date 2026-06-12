@@ -1,0 +1,3 @@
+('fxChains': [], 'audioInputBus': 0, 'synthdefs': [], 'inputs': [], 'outputs': [
+  ('id': 'demo', 'type': 'simpleSynthOut', 'bar': 2, 'beat': 1, 'duration': 1.0, 'ampScale': 0.2)
+], 'preloadBuffers': [])
