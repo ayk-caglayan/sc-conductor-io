@@ -84,7 +84,7 @@ Preset buffer paths may be relative to the repo root (e.g. `samples/Celesta_F.wa
 | Repository | Focus |
 |------------|-------|
 | **[Celesta_piece](https://github.com/ayk-caglayan/Celesta_piece)** *(when published)* | Celesta composition + grant presentation assets |
-| **[chord_study](https://github.com/ayk-caglayan/chord_study)** *(when published)* | Symmetric PC-set harmonic research |
+| **[harmonic_space](https://github.com/ayk-caglayan/harmonic-space)** *(when published)* | Symmetric PC-set harmonic research |
 
 This framework was developed for a celesta composition with live electronics. The composition repo includes score excerpts and reference samples; this repo contains the full extensible performance system.
 
